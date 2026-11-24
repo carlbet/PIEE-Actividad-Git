@@ -9,8 +9,7 @@ Este bloque describe la lógica de programación del microcontrolador, los proto
 ## 3.2 Protocolos de Comunicación (MQTT / HTTP)
 > **Alejandro escribe en este apartado**
 
-*(Alejandro debe borrar este aviso y escribir su texto aquí)*
-
+hvvhjvjvvkvvvhvkjvhjvjvj
 
 
 ## 3.3 Esquema de Base de Datos y Almacenamiento
