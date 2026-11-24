@@ -5,7 +5,7 @@ En este capítulo se detallan los componentes electrónicos seleccionados para l
 ## 2.1 Selección del Microcontrolador y Módulo RFID
 > **Alexia escribe en este apartado**
 
-*(Alexia debe borrar este aviso y escribir su texto aquí)*
+Se ha seleccionado el microcotrolador ...
 
 
 
