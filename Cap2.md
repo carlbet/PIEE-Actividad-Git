@@ -11,5 +11,4 @@ Se ha seleccionado el microcotrolador ...
 
 ## 2.2 Diseño del Circuito de Alimentación y Batería de Respaldo
 > **Johan escribe en este apartado**
-
-*(Johan debe borrar este aviso y escribir su texto aquí)*
+Hola alexia
