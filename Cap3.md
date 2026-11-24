@@ -15,5 +15,4 @@ Este bloque describe la lógica de programación del microcontrolador, los proto
 
 ## 3.3 Esquema de Base de Datos y Almacenamiento
 > **Gerónimo escribe en este apartado**
-
-*(Gerónimo debe borrar este aviso y escribir su texto aquí)*
+La base de datos etá siendo actualizada. 
