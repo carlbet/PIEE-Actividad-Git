@@ -5,7 +5,7 @@ Este capítulo define el propósito del sistema de control de acceso inteligente
 ## 1.1 Contexto y Justificación del Proyecto
 > **Daniel escribe en este apartado**
 
-*(Daniel debe borrar este aviso y escribir su texto aquí)*
+ssssssssssssssssssssssss
 
 
 
