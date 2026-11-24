@@ -12,4 +12,4 @@ Este capítulo define el propósito del sistema de control de acceso inteligente
 ## 1.2 Objetivos Generales y Específicos
 > **Emanuel escribe en este apartado**
 
-*(Emanuel debe borrar este aviso y escribir su texto aquí)*
+En cuanto a los objetivos del sistema de control acceso inteligente, está en primer lugar, el correcto funcionamiento del sistema. Se espera que conceda acceso a toda persona con el ID correspondiente haciendo una comprobación en tiempo real.
