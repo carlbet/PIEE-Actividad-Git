@@ -3,10 +3,7 @@
 Este bloque describe la lógica de programación del microcontrolador, los protocolos de transmisión de datos hacia el servidor central y la estructura de la base de datos de usuarios.
 
 ## 3.1 Arquitectura del Firmware (RTOS)
-> **Eduardo escribe en este apartado**
-
-*(Eduardo debe borrar este aviso y escribir su texto aquí)*
-
+> 55555555555555
 
 
 ## 3.2 Protocolos de Comunicación (MQTT / HTTP)
